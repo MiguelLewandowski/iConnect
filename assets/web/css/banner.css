@@ -1,0 +1,19 @@
+/********** banner **********/
+
+#banner {
+    background-size: cover;
+    background-color: rgba(240, 240, 240, 0.7);
+     background-blend-mode: overlay;
+     height: 640px;
+    }
+
+
+#banner header {
+    overflow: hidden;
+}
+
+#banner header img {
+    max-width: 250px;
+    max-height: 100px;
+}
+
